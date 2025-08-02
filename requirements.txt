@@ -1,0 +1,14 @@
+# MP4 to MP3 Converter Dependencies
+
+# GUI Framework
+PySide6>=6.5.0
+
+# Video/Audio Processing
+moviepy>=1.0.3
+
+# Additional dependencies that moviepy might need
+imageio>=2.25.0
+imageio-ffmpeg>=0.4.8
+
+# Optional: For better audio processing
+pydub>=0.25.1
