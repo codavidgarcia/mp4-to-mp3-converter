@@ -13,6 +13,8 @@ A user-friendly simple desktop application for converting MP4 video files to MP3
 
 ## Screenshots
 
+![MP4 to MP3 Converter Application](screenshot.png)
+
 The application features a clean, organized interface with:
 - File selection area for choosing MP4 input files
 - Output directory selection
