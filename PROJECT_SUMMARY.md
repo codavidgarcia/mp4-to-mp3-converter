@@ -204,6 +204,6 @@ pip install PySide6 moviepy imageio imageio-ffmpeg
 
 ## Conclusion
 
-This MP4 to MP3 converter provides a complete, professional-grade solution for audio extraction from video files. The application combines a user-friendly interface with robust technical implementation, making it suitable for both casual users and power users who need reliable batch conversion capabilities.
+This MP4 to MP3 converter provides a complete, simple solution for audio extraction from video files. The application combines a user-friendly interface with error handling, making it suitable for both casual users and power users who need reliable batch conversion capabilities.
 
 The modular design, comprehensive error handling, and cross-platform compatibility ensure the application can be easily maintained and extended for future requirements.

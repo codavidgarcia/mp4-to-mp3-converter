@@ -1,15 +1,15 @@
 # MP4 to MP3 Converter
 
-A user-friendly desktop application for converting MP4 video files to MP3 audio files. Built with Python, PySide6, and moviepy.
+A user-friendly simple desktop application for converting MP4 video files to MP3 audio files. Built with Python, PySide6, and moviepy.
 
 ## Features
 
 - **Intuitive GUI**: Easy-to-use graphical interface built with PySide6
 - **Batch Conversion**: Convert multiple MP4 files at once
 - **Progress Tracking**: Real-time progress bar and status updates
-- **Error Handling**: Robust error handling with user-friendly messages
+- **Error Handling**: Error handling with user-friendly messages
 - **File Management**: Easy file selection and output directory management
-- **Cross-Platform**: Works on Windows, macOS, and Linux
+- **Cross-Platform**: Works on Windows, macOS, and Linux (requires Python)
 
 ## Screenshots
 
