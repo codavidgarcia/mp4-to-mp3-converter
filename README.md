@@ -1,24 +1,24 @@
 # MP4 to MP3 Converter
 
-A user-friendly simple desktop application for converting MP4 video files to MP3 audio files. Built with Python, PySide6, and moviepy.
+A simple desktop application for converting MP4 video files to MP3 audio files. Built with Python, PySide6, and moviepy.
 
 ## Features
 
-- **Intuitive GUI**: Easy-to-use graphical interface built with PySide6
+- **GUI**: Graphical interface built with PySide6
 - **Batch Conversion**: Convert multiple MP4 files at once
 - **Progress Tracking**: Real-time progress bar and status updates
-- **Error Handling**: Error handling with user-friendly messages
-- **File Management**: Easy file selection and output directory management
+- **Error Handling**: Error handling with messages
+- **File Management**: File selection and output directory management
 - **Cross-Platform**: Works on Windows, macOS, and Linux (requires Python)
 
 ## Screenshots
 
 ![MP4 to MP3 Converter Application](screenshot.png)
 
-The application features a clean, organized interface with:
+The application interface includes:
 - File selection area for choosing MP4 input files
 - Output directory selection
-- Progress tracking with detailed status messages
+- Progress tracking with status messages
 - Conversion controls with start/cancel functionality
 
 ## Requirements
@@ -34,8 +34,8 @@ The application features a clean, organized interface with:
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
-   cd mp4-mp3-converter
+   git clone https://github.com/codavidgarcia/mp4-to-mp3-converter.git
+   cd mp4-to-mp3-converter
    ```
 
 2. **Create a virtual environment (recommended)**
@@ -89,8 +89,8 @@ The application preserves the original filename but changes the extension to .mp
 ### File Selection
 - Support for multiple file selection
 - Duplicate file detection
-- Clear file list functionality
-- Visual file list display
+- File list clearing functionality
+- File list display
 
 ### Conversion Process
 - Background processing to keep UI responsive
@@ -102,13 +102,13 @@ The application preserves the original filename but changes the extension to .mp
 - Invalid file format detection
 - Missing audio track warnings
 - Permission and disk space checks
-- Detailed error messages in status log
+- Error messages in status log
 
 ### User Interface
-- Resizable window with organized sections
-- Progress bar for visual feedback
+- Resizable window with sections
+- Progress bar for feedback
 - Scrollable status log
-- Intuitive button layout
+- Button layout
 
 ## Troubleshooting
 
@@ -166,7 +166,7 @@ mp4-mp3-converter/
 ```
 
 ### Contributing
-1. Fork the repository
+1. Fork the repository at https://github.com/codavidgarcia/mp4-to-mp3-converter
 2. Create a feature branch
 3. Make your changes
 4. Test thoroughly
